@@ -32,3 +32,7 @@
 ## Справочник API
 
 Этот проект использует API Meteosource Weather для получения данных о погоде. Вы можете найти дополнительную информацию и зарегистрироваться для получения ключа API на [странице API Meteosource Weather](https://rapidapi.com/MeteosourceWeather/api/ai-weather-by-meteosource).
+
+### Основа
+
+Приложение создавалось на основе видеоурока от Code Explained
