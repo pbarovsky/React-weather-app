@@ -1,0 +1,24 @@
+{
+  "lat": "44.60795N",
+  "lon": "33.52134E",
+  "elevation": 50,
+  "timezone": "Europe/Zaporozhye",
+  "units": "metric",
+  "current": {
+    "icon": "overcast",
+    "icon_num": 7,
+    "summary": "Overcast",
+    "temperature": 22.0,
+    "feels_like": 21.2,
+    "wind_chill": 22.8,
+    "dew_point": 14.5,
+    "wind": { "speed": 1.8, "gusts": 3.6, "angle": 324, "dir": "NW" },
+    "precipitation": { "total": 0.0, "type": "none" },
+    "cloud_cover": 90,
+    "ozone": 312.93,
+    "pressure": 1016,
+    "uv_index": 3.54,
+    "humidity": 0,
+    "visibility": 24.14
+  }
+}
