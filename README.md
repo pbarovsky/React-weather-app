@@ -33,6 +33,9 @@
 
 Этот проект использует API Meteosource Weather для получения данных о погоде. Вы можете найти дополнительную информацию и зарегистрироваться для получения ключа API на [странице API Meteosource Weather](https://rapidapi.com/MeteosourceWeather/api/ai-weather-by-meteosource).
 
+## PS
+- необходимо создать в корне файл .env и поместить туда REACT_APP_API_KEY - ключ.
+
 ### Основа
 
 Приложение создавалось на основе видеоурока от Code Explained
